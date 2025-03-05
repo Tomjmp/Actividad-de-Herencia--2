@@ -1,0 +1,14 @@
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/bin/Debug/net9.0/Tarea Herencia
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/bin/Debug/net9.0/Tarea Herencia.deps.json
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/bin/Debug/net9.0/Tarea Herencia.runtimeconfig.json
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/bin/Debug/net9.0/Tarea Herencia.dll
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/bin/Debug/net9.0/Tarea Herencia.pdb
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.AssemblyInfoInputs.cache
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.AssemblyInfo.cs
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.csproj.CoreCompileInputs.cache
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.dll
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/refint/Tarea Herencia.dll
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.pdb
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/Tarea Herencia.genruntimeconfig.cache
+/Users/tomjmp/Desktop/CSHARP/Tarea Herencia/obj/Debug/net9.0/ref/Tarea Herencia.dll
